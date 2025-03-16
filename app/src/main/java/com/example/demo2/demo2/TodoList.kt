@@ -1,4 +1,4 @@
-package com.example.demo2
+package com.example.demo2.demo2
 
 import android.os.Build
 import androidx.annotation.RequiresApi
